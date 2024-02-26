@@ -1,0 +1,58 @@
+
+
+body{
+    background-color: rgb(147, 203, 200)
+    
+}
+
+.table{
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+       height: 800px;
+       align-items: center;
+}
+.leftside{
+   
+    width:200px;
+            background-color: rgb(9, 104, 109);
+            color: aliceblue; padding:1.5%;
+}
+
+
+.image{
+    text-align: center;
+}
+a:link {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(154, 234, 131);
+}
+
+a:hover {
+    color: rgb(201, 215, 42);
+    text-decoration: underline;
+}
+#link:active {
+    color: rgb(128, 215, 228);}
+
+                               /* left side done */
+
+.rightside{
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    padding: 3%;
+    line-height:1.2em;}
+
+.h{
+    background-color: rgb(9, 104, 109); 
+    color: antiquewhite;
+}
+
+
+
+
+.ab{
+    color: rgb(212, 193, 21)!important; }
